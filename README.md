@@ -1,4 +1,4 @@
-### Hi 👋, I'm Mahady Al Hady
+## Hi 👋, I'm Mahady Al Hady
 
 <!--
 **mahadyalhady/mahadyalhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
